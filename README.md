@@ -10,7 +10,7 @@ the world.
 
 Video Credit: Ubuntu Experience.
 
-Live Demo: <a href="http://adf.ly/pj2ENhttp://adf.ly/pj2EN"> Watch Demo </a>
+Live Demo: <a href="http://mobicyberdev.com/showcase/html5/"> Watch Demo </a>
 
 <h1> THANK YOU </h1>
 Follow us on Twitter @mobicyberdev
